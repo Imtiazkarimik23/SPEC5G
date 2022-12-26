@@ -62,7 +62,7 @@ Contents of this repository are licensed under [Creative Commons Attribution-Non
 ## Citation
 If you use this dataset or code modules, please cite the following paper:
 ```
-@inproceedings{hasan-etal-2020-low,
+@inproceedings{karim-etal-2023-spec5g,
     title = "SPEC5G: A Dataset for 5G Cellular Network Protocol Analysis",
     author = "Karim, Imtiaz  and
       Mubasshir, Kazi Samin  and
