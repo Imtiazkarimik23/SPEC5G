@@ -1,0 +1,74 @@
+*~
+*.pyc
+*.npy
+.idea
+
+
+
+# byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# tests and coverage
+*.pytest_cache
+.coverage
+
+# database & logs
+*.db
+*.sqlite3
+*.log
+*.csv
+
+# venv
+env
+venv
+
+# other
+.DS_Store
+
+# javascript
+package-lock.json
+
+staticfiles/*
+!staticfiles/.gitkeep
+.vscode/symbols.json
+
+
+# Build and Release Folders
+bin-debug/
+bin-release/
+[Oo]bj/
+[Bb]in/
+
+# Other files and folders
+data/
+test/
+.settings/
+.idea/
+.vscode/
+venv/
+env/
+.DS_Store/
+.ipynb_checkpoints/
+
+
+# Executables
+
+*.swf
+*.air
+*.ipa
+*.apk
+*.pyo
+*.zip
+*.tar.gz
+*.sav
+*.exe
+*.json
+*.DS_Store
+*.pdf
+*.xlsx
+*.wav
+
+# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
+# should NOT be excluded as they contain compiler settings and other important
+# information for Eclipse / Flash Builder.
