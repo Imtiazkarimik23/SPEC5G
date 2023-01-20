@@ -21,10 +21,10 @@ This repository contains the code and data of the paper titled [**"SPEC5G: A Dat
 
 
 ## Datasets
-  Download the dataset from [here](https://drive.google.com/drive/folders/11x0_IonTROgQOfH_DUyAJ2U3vabXa_Fn). This includes:
-* Our original 134M Word training corpus (`Gold_5G_v3.0.zip`)
+  Download the dataset from [here](https://drive.google.com/drive/folders/1Km1wdYnwjdGHiULFO0GL8JZFtDT5ZDb_?usp=sharing). This includes:
+* Our original 134M Word training corpus (`Gold_5G_v4.0.zip`)
 * 5GSum - Summarization Dataset (`simplification_dataset.csv`)
-* 5GSC - Classification Dataset (`cf_dataset2.csv`)
+* 5GSC - Classification Dataset (`5GSC.csv`)
 
 ## Models
 
