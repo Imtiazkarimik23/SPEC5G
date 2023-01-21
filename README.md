@@ -2,6 +2,10 @@
 
 This repository contains the code and data of the paper titled [**"SPEC5G: A Dataset for 5G Cellular Network Protocol Analysis"**]("https://www.overleaf.com/project/6328efc563b20d4fea080ff8") published in *The 17th Conference of the European Chapter of the Association for Computational Linguistics, 2023.*
 
+SPEC5G is a dataset for the analysis of natural language specification of 5G Cellular network protocol specification. SPEC5G contains 3,547,587 sentences with 134M words, from 13094 cellular network specifications and 13 online websites. By leveraging large-scale pre-trained language models that have achieved state-of-the-art results on ML-based natural language processing (NLP) tasks, we have used this dataset for security-related text classification and summarization. Security-related text classification can be used to extract relevant security-related properties for protocol testing. On the other hand, summarization can help developers and practitioners understand the high level of the protocol, which is itself a daunting task.
+
+SPEC5G is the first first-ever public 5G dataset for NLP research on network security.
+
 ## Updates
 
 * The pretrained models are now available for download.
