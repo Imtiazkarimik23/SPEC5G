@@ -21,7 +21,7 @@ SPEC5G is the first first-ever public 5G dataset for NLP research on network sec
   - [Dependencies](#dependencies)
   - [Training & Evaluation](#training--evaluation)
 [//]:  - [License](#license)
-[//]:  - [Citation](#citation)
+[//]: - [Citation](#citation)
 
 
 ## Datasets
