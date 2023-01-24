@@ -62,42 +62,26 @@ The pretrained model checkpoints can be found below:
 
 [//]: # (Contents of this repository are licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License &#40;CC BY-NC-SA 4.0&#41;]&#40;https://creativecommons.org/licenses/by-nc-sa/4.0/&#41;. )
 
-[//]: # (## Citation)
+## Citation
 
-[//]: # (If you use this dataset or code modules, please cite the following paper:)
+If you use this dataset or code modules, please cite the following paper:
 
-[//]: # (```)
-
-[//]: # (@inproceedings{karim-etal-2023-spec5g,)
-
-[//]: # (    title = "SPEC5G: A Dataset for 5G Cellular Network Protocol Analysis",)
-
-[//]: # (    author = "Karim, Imtiaz  and)
-
-[//]: # (      Mubasshir, Kazi Samin  and)
-
-[//]: # (      Rahman, Mirza Masfiqur  and)
-
-[//]: # (      Bertino, Elisa",)
-
-[//]: # (    booktitle = "The 17th Conference of the European Chapter of the Association for Computational Linguistics",)
-
-[//]: # (    month = jan,)
-
-[//]: # (    year = "2023",)
-
-[//]: # (    address = "Online",)
-
-[//]: # (    publisher = "Association for Computational Linguistics",)
-
-[//]: # (    url = "https://www.aclweb.org/anthology/2023.eacl-main.207",)
-
-[//]: # (    doi = "10.18653/v1/2023.eacl-main.207",)
-
-[//]: # (    pages = "2612--2623",)
-
-[//]: # (    abstract = "5G is the 5th generation cellular network protocol. It is the state-of-the-art global wireless standard that enables an advanced kind of network--designed to connect virtually everyone and everything with increased speed and reduced latency. Therefore, its development, analysis, and security are critical. However, all approaches to the 5G protocol development and security analysis, e.g., property extraction, protocol summarization, and semantic analysis of the protocol specifications and implementations are completely manual. To reduce such manual efforts, in this paper, we curate SPEC5G the first-ever public 5G dataset for NLP research. The dataset contains 3,547,587 sentences with 134M words, from 13094 cellular network specifications and 13 online websites. By leveraging large-scale pre-trained language models that have achieved state-of-the-art results on NLP tasks, we use this dataset for security-related text classification and summarization. Security-related text classification can be used to extract relevant security-related properties for protocol testing. On the other hand, summarization can help developers and practitioners understand the high level of the protocol, which is itself a daunting task. Our results show the value of our 5G-centric dataset in 5G protocol analysis automation. We believe that SPEC5G will enable a new research direction into automatic analyses for the 5G cellular network protocol and numerous related downstream tasks.",)
-
-[//]: # (})
-
-[//]: # (```)
+```
+@misc{https://doi.org/10.48550/arxiv.2301.09201,
+  doi = {10.48550/ARXIV.2301.09201},
+  
+  url = {https://arxiv.org/abs/2301.09201},
+  
+  author = {Karim, Imtiaz and Mubasshir, Kazi Samin and Rahman, Mirza Masfiqur and Bertino, Elisa},
+  
+  keywords = {Information Retrieval (cs.IR), Cryptography and Security (cs.CR), Machine Learning (cs.LG), FOS: Computer and information sciences, FOS: Computer and information sciences},
+  
+  title = {SPEC5G: A Dataset for 5G Cellular Network Protocol Analysis},
+  
+  publisher = {arXiv},
+  
+  year = {2023},
+  
+  copyright = {Creative Commons Attribution 4.0 International}
+}
+```
