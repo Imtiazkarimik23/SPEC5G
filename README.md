@@ -69,19 +69,12 @@ If you use this dataset or code modules, please cite the following paper:
 ```
 @misc{https://doi.org/10.48550/arxiv.2301.09201,
   doi = {10.48550/ARXIV.2301.09201},
-  
   url = {https://arxiv.org/abs/2301.09201},
-  
   author = {Karim, Imtiaz and Mubasshir, Kazi Samin and Rahman, Mirza Masfiqur and Bertino, Elisa},
-  
-  keywords = {Information Retrieval (cs.IR), Cryptography and Security (cs.CR), Machine Learning (cs.LG), FOS: Computer and information sciences, FOS: Computer and information sciences},
-  
+  keywords = {Information Retrieval (cs.IR), Cryptography and Security (cs.CR), Machine Learning (cs.LG), FOS: Computer and information sciences, FOS: Computer and       information sciences},
   title = {SPEC5G: A Dataset for 5G Cellular Network Protocol Analysis},
-  
   publisher = {arXiv},
-  
   year = {2023},
-  
   copyright = {Creative Commons Attribution 4.0 International}
 }
 ```
