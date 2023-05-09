@@ -64,7 +64,7 @@ The pretrained model checkpoints can be found below:
 
 ## Citation
 
-If you use this dataset or code modules, please cite the following paper:
+If you use this dataset, models or code modules, please cite the following paper:
 
 ```
 @misc{https://doi.org/10.48550/arxiv.2301.09201,
