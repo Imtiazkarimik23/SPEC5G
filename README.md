@@ -49,6 +49,7 @@ The pretrained model checkpoints can be found below:
 * [sentencepiece](https://github.com/google/sentencepiece) (`Install CLI`)
 * [regex](https://pypi.org/project/regex/)
 * [torchtext](https://pypi.org/project/torchtext) (`pip install torchtext==0.4.0`)
+
 [//]: # (* [Cython]&#40;https://pypi.org/project/Cython/&#41;)
 
 
