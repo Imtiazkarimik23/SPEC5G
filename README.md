@@ -1,3 +1,7 @@
+## Updates
+* Added annotator reasoning for a subset of examples from security classification.
+* The pretrained models are now available for download.
+
 # SPEC5G
 
 This repository contains the code and data of the paper titled [**"SPEC5G: A Dataset for 5G Cellular Network Protocol Analysis"**]("https://www.overleaf.com/project/6328efc563b20d4fea080ff8") which is under review.
@@ -6,9 +10,6 @@ SPEC5G is a dataset for the analysis of natural language specification of 5G Cel
 
 SPEC5G is the first-ever public 5G dataset for NLP research on network security.
 
-## Updates
-
-* The pretrained models are now available for download.
 
 
 ## Table of Contents
@@ -27,6 +28,7 @@ SPEC5G is the first-ever public 5G dataset for NLP research on network security.
 * Our original 134M Word training corpus (`Gold_5G_v4.0.zip`)
 * 5GSum - Summarization Dataset (`simplification_dataset.csv`)
 * 5GSC - Classification Dataset (`5GSC.csv`)
+* 5GSC Annotator Reasoning - Annotator Explanation for Subset of 5GSC 
 
 ## Models
 
