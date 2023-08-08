@@ -1,5 +1,5 @@
 ## Updates
-* Added annotator reasoning for a subset of examples from security classification.
+* (August 8, 2023) Added annotator reasoning for a subset of examples of security classification.
 * The pretrained models are now available for download.
 
 # SPEC5G
