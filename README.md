@@ -66,17 +66,18 @@ The pretrained model checkpoints can be found below:
 
 ## Citation
 
-If you use this dataset, models or code modules, please cite the following paper:
+If you use this dataset, models, or code modules, please cite the following paper:
 
 ```
-@misc{https://doi.org/10.48550/arxiv.2301.09201,
-  doi = {10.48550/ARXIV.2301.09201},
-  url = {https://arxiv.org/abs/2301.09201},
-  author = {Karim, Imtiaz and Mubasshir, Kazi Samin and Rahman, Mirza Masfiqur and Bertino, Elisa},
-  keywords = {Information Retrieval (cs.IR), Cryptography and Security (cs.CR), Machine Learning (cs.LG), FOS: Computer and information sciences, FOS: Computer and       information sciences},
-  title = {SPEC5G: A Dataset for 5G Cellular Network Protocol Analysis},
-  publisher = {arXiv},
-  year = {2023},
-  copyright = {Creative Commons Attribution 4.0 International}
+@InProceedings{karim-EtAl:2023:findings,
+  author    = {Karim, Imtiaz  and  Mubasshir, Kazi Samin  and  Rahman, Mirza Masfiqur  and  Bertino, Elisa},
+  title     = {SPEC5G: A Dataset for 5G Cellular Network Protocol Analysis},
+  booktitle      = {Proceedings of the 13th International Joint Conference on Natural Language Processing and the 3rd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics},
+  month          = {November},
+  year           = {2023},
+  address        = {Nusa Dua, Bali},
+  publisher      = {Association for Computational Linguistics},
+  pages     = {20--38},
+  url       = {https://aclanthology.org/2023.findings-ijcnlp.3}
 }
 ```
