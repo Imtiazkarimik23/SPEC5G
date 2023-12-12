@@ -57,6 +57,7 @@ The pretrained model checkpoints can be found below:
 
 ## Training & Evaluation
   * See [training and evaluation module.](model-training/)
+  * You may run into an error while using Data Collator. There is a relevant [discussion](https://discuss.huggingface.co/t/huggingface-data-collator-index-put-requires-the-source-and-destination-dtypes-match-got-float-for-the-destination-and-long-for-the-source/32920) in the Huggingface Forum that might solve the issue.
 
 [//]: # (  * Try out the models in [Google Colaboratory.]&#40;https://colab.research.google.com/&#41;)
 
